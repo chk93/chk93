@@ -1,9 +1,16 @@
 # ☆꧁✬◦°˚°◦. աɛʟƈօʍɛ ȶօ ʍʏ քʀօʄɨʟɛ .◦°˚°◦✬꧂☆
 ![_ (2)](https://github.com/user-attachments/assets/283cadf4-3fcc-4f67-955a-3072a5698844)
 
-## 彡✞𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈:
-❥ 𝐑𝐮𝐬𝐭
+► ₍^. .^₎⟆ 𝐦𝐞𝐨𝐰! (˶>⩊<˶)
 
-❥ 𝐃𝐨𝐜𝐤𝐞𝐫
+► 𝐈'𝐦 𝐜𝐮𝐭𝐞 𝟏𝟕 𝐲.𝐨 𝐟𝐞𝐦𝐛𝐨𝐲, 𝐰𝐡𝐨 𝐥𝐞𝐚𝐫𝐧𝐬 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐟𝐨𝐫 𝐞𝐬𝐜𝐚𝐩𝐞 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚
 
-❥ 𝐃𝐞𝐯𝐎𝐩𝐬-𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
+► 𝐈 𝐮𝐬𝐞 ˶𝐍𝐲𝐚𝐫𝐜𝐡˶, 𝐛𝐭𝐰 ![Arch](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=archlinux)
+
+### 彡✞𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈:
+❥ 𝐑𝐮𝐬𝐭 ![Rust](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Rust)
+
+❥ 𝐃𝐨𝐜𝐤𝐞𝐫 ![Docker](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Docker)
+
+
+
