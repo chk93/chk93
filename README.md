@@ -22,7 +22,7 @@
 ### 彡✞𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈:
 ❥ 𝐑𝐮𝐬𝐭 ![Rust](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Rust)
 
-❥ 𝐂++ ![C++](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=cpp)
+❥ 𝐂++ ![C++](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=C++)
 
 ❥ 𝐃𝐨𝐜𝐤𝐞𝐫 ![Docker](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Docker)
 
