@@ -11,7 +11,7 @@
 ⸻⸻⸻⸻⸻
 
 𝗡𝗼𝘄 𝗹𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴:                     
-"Noi3e MC - Спящая красавица"
+"Ежемесячные - Россия для грустных"
                                 
 01:57 ───────●─── 03:46         
 
@@ -20,11 +20,11 @@
 ⸻⸻⸻⸻⸻
 
 ### 彡✞𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈:
-❥ 𝐑𝐮𝐬𝐭 ![Rust](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Rust)
+❥ 𝐑𝐮𝐬𝐭
 
-❥ 𝐂++ ![C++](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=C++)
+❥ 𝐂++ 
 
-❥ 𝐃𝐨𝐜𝐤𝐞𝐫 ![Docker](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=Docker)
+
 
 
 
