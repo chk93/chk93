@@ -6,7 +6,8 @@
 
 ⚙️ DevOps Engineer   
 
-I work with Linux, automation, CI/CD, containers, and server infrastructure. Currently learning Rust and exploring systems and backend development.
+##### I work with Linux, automation, CI/CD, containers, and server infrastructure. 
+##### Currently learning Rust and exploring systems and backend development.
 
 
 
