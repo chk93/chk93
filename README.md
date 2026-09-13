@@ -9,6 +9,16 @@
 #### I work with Linux, automation, CI/CD, containers, and server infrastructure. 
 #### Currently learning Rust and exploring systems and backend development.
 
+##### Areas of interest
+
+- 🐧 Linux system administration
+- ⚙️ Infrastructure automation
+- 🚀 CI/CD pipelines
+- 🐳 Docker and containerization
+- ☁️ Cloud infrastructure
+- 🦀 Rust development
+- 🔐 Security and monitoring
+
 
 
 
