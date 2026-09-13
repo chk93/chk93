@@ -1,6 +1,5 @@
 # ☆꧁✬◦°˚°◦. աɛʟƈօʍɛ ȶօ ʍʏ քʀօʄɨʟɛ .◦°˚°◦✬꧂☆
-![_ (2)](https://github.com/user-attachments/assets/283cadf4-3fcc-4f67-955a-3072a5698844)
-
+<img width="736" height="270" alt="97db599cb597ca65dabc666e61c07d8b896" src="https://github.com/user-attachments/assets/ed4baf00-e97d-4fbf-addf-70cccc730866" />
 
 ### 🖥️ System Administrator
 
