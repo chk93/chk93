@@ -4,7 +4,7 @@
 
 ### ► 𝐈'𝐦 𝐜𝐮𝐭𝐞 𝟏𝟕 𝐲.𝐨 𝐟𝐞𝐦𝐛𝐨𝐲, 𝐰𝐡𝐨 𝐥𝐞𝐚𝐫𝐧𝐬 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐟𝐨𝐫 𝐞𝐬𝐜𝐚𝐩𝐞 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚
 
-### ► 𝐈 𝐮𝐬𝐞 ˶Void˶, 𝐛𝐭𝐰 ![Arch](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=voidlinux)
+### ► 𝐈 𝐮𝐬𝐞 ˶nyArch˶, 𝐛𝐭𝐰 ![Arch](https://img.shields.io/badge/-2E1A4D?style=for-the-bage&logo=archlinux)
 
 ### ► ₍^. .^₎⟆ 𝐦𝐞𝐨𝐰! (˶>⩊<˶)  
 
