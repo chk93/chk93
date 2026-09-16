@@ -5,7 +5,7 @@
 
 ### ![kuber](https://custom-icon-badges.demolab.com/badge/-5C00A2?logo=kubernetes) DevOps Engineer   
 
-### ![kuber](https://custom-icon-badges.demolab.com/badge/-5C00A2?logo=krita) Digital Artist
+### ![kuber](https://custom-icon-badges.demolab.com/badge/🪼-5C00A2?) Digital Artist
 
 #### I work with Linux, automation, CI/CD, containers, and server infrastructure. 
 #### Currently learning Rust and exploring systems and backend development.
